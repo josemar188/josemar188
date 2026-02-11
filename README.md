@@ -4,8 +4,6 @@
 <h3 align="center">I'm a computer engineering student with a desire to explore distant worlds of knowledge.</h3>
 <br>
 
-<img src="https://i.postimg.cc/QCYkg9cG/Photoroom-20250915-105735.jpg" width="250px" align="left" style="margin-right: 20px;" >
-
 - I’m currently working on [SpaceX Machine Learning Prediction](https://github.com/josemar188/datasciency)
 
 - I’m currently learning **C#, Java & JavaScript**
