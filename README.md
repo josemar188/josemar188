@@ -1,9 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:434343,100:bdbdbd&height=250&width=100%&section=header&text=Josemar%20Lima&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student%20&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:434343,100:bdbdbd&height=250&width=100%&section=header&text=Josemar%20Lima&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=&descAlignY=20&descAlign=20"/>
 </p>
-
-<h1 align="center">Hello World! I'm Josemar Lima</h1>
-<h3 align="center">A computer engineering student with a desire to explore distant worlds of knowledge.</h3>
+<h3 align="center">I'm a computer engineering student with a desire to explore distant worlds of knowledge.</h3>
 <br>
 
 <img src="https://i.postimg.cc/QCYkg9cG/Photoroom-20250915-105735.jpg" width="250px" align="left" style="margin-right: 20px;" >
