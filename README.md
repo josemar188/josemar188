@@ -4,7 +4,7 @@
 <h3 align="center">I'm a computer engineering student with a desire to explore distant worlds of knowledge.</h3>
 <br>
 
-- My first project on Data Sciency [SpaceX Machine Learning Prediction](https://github.com/josemar188/datasciency)
+- My first project on Data Science [SpaceX Machine Learning Prediction](https://github.com/josemar188/datasciency)
 
 - I’m currently learning **C#, Java & JavaScript**
 
