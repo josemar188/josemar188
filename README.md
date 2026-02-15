@@ -8,7 +8,7 @@
 
 - I’m currently learning **C#, Java & JavaScript**
 
-- All of my projects are available at [https://github.com/josemar188/](https://github.com/josemar188/)
+- All of my projects are available at [https://github.com/josemar188?tab=repositories](https://github.com/josemar188/)
 
 - How to reach me **jusng188@gmail.com**
 
