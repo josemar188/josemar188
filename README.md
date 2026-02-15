@@ -6,9 +6,11 @@
 
 - My first project on Data Science [SpaceX Machine Learning Prediction](https://github.com/josemar188/datasciency)
 
+- My Electrical Car Project [MV- March Vivi] (https://josemar188.github.io/mvivi-site/) 
+
 - I’m currently learning **C#, Java & JavaScript**
 
-- All of my projects are available at [Josemar GitHub](https://github.com/josemar188?tab=repositories)
+- All of my projects are available at [Josemar GitHub Repositories](https://github.com/josemar188?tab=repositories)
 
 - How to reach me **jusng188@gmail.com**
 
