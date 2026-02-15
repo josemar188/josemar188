@@ -6,7 +6,7 @@
 
 - My first project on Data Science [SpaceX Machine Learning Prediction](https://github.com/josemar188/datasciency)
 
-- My Electrical Car Project [MV- March Vivi] (https://josemar188.github.io/mvivi-site/) 
+- My Electrical Car Project [MV- March Vivi](https://josemar188.github.io/mvivi-site/) 
 
 - I’m currently learning **C#, Java & JavaScript**
 
